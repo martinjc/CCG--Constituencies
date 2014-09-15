@@ -1,0 +1,212 @@
+CCG13CD,CCG13NM,PCON11CD list,PCON11NM list
+E38000049,NHS East and North Hertfordshire,E14000606;E14000845;E14001027;E14000744;E14000968;E14000749,Broxbourne;North East Hertfordshire;Welwyn Hatfield;Hertford and Stortford;Stevenage;Hitchin and Harpenden
+E38000127,NHS North Tyneside,E14001006;E14000853,Tynemouth;North Tyneside
+E38000124,NHS North Norfolk,E14000603;E14000848,Broadland;North Norfolk
+E38000125,NHS North Somerset,E14001038;E14000850,Weston-Super-Mare;North Somerset
+E38000122,NHS North Lincolnshire,E14000914;E14000643;E14000596,Scunthorpe;Cleethorpes;Brigg and Goole
+E38000123,NHS North Manchester,E14000807;E14000571,Manchester Central;Blackley and Broughton
+E38000120,NHS North Hampshire,E14000680;E14000857;E14000844;E14000545,East Hampshire;North West Hampshire;North East Hampshire;Basingstoke
+E38000121,NHS North Kirklees,E14000666;E14000548,Dewsbury;Batley and Spen
+E38000041,NHS Cumbria,E14000928;E14000543;E14000620;E14001053;E14000877;E14000647;E14001037,Skipton and Ripon;Barrow and Furness;Carlisle;Workington;Penrith and The Border;Copeland;Westmorland and Lonsdale
+E38000040,NHS Croydon,E14000656;E14000654;E14000655,Croydon South;Croydon Central;Croydon North
+E38000043,"NHS Dartford, Gravesham and Swanley",E14000715;E14000918;E14000659,Gravesham;Sevenoaks;Dartford
+E38000042,NHS Darlington,E14000915;E14000658,Sedgefield;Darlington
+E38000045,NHS Dorset,E14000881;E14000936;E14000638;E14000839;E14000815;E14000584;E14000585;E14001031,Poole;South Dorset;Christchurch;North Dorset;Mid Dorset and North Poole;Bournemouth East;Bournemouth West;West Dorset
+E38000044,NHS Doncaster,E14000669;E14000668;E14000667,Doncaster North;Doncaster Central;Don Valley
+E38000047,"NHS Durham Dales, Easington and Sedgefield",E14000915;E14000856;E14000677;E14000569,Sedgefield;North West Durham;Easington;Bishop Auckland
+E38000046,NHS Dudley,E14000722;E14000976;E14001050;E14000671;E14000672,Halesowen and Rowley Regis;Stourbridge;Wolverhampton South East;Dudley North;Dudley South
+E38000006,NHS Barnsley,E14000876;E14001028;E14000542;E14000541,Penistone and Stocksbridge;Wentworth and Dearne;Barnsley East;Barnsley Central
+E38000008,NHS Bassetlaw,E14000829;E14000546,Newark;Bassetlaw
+E38000038,NHS Coventry and Rugby,E14000767;E14000905;E14000649;E14000650;E14000651,Kenilworth and Southam;Rugby;Coventry North East;Coventry North West;Coventry South
+E38000039,NHS Crawley,E14000652,Crawley
+E38000034,NHS Chorley and South Ribble,E14000943;E14000894;E14000637,South Ribble;Ribble Valley;Chorley
+E38000035,NHS City and Hackney,E14000639;E14000720;E14000721,Cities of London and Westminster;Hackney North and Stoke Newington;Hackney South and Shoreditch
+E38000036,NHS Coastal West Sussex,E14000633;E14000534;E14001055;E14000753;E14000682;E14000576,Chichester;Arundel and South Downs;Worthing West;Horsham;East Worthing and Shoreham;Bognor Regis and Littlehampton
+E38000037,NHS Corby,E14000648,Corby
+E38000030,"NHS Castle Point, Rayleigh and Rochford",E14000899;E14000622;E14000888,Rochford and Southend East;Castle Point;Rayleigh and Wickford
+E38000031,NHS Central London (Westminster),E14000639;E14001036,Cities of London and Westminster;Westminster North
+E38000032,NHS Central Manchester,E14000807;E14000809;E14000808,"Manchester Central;Manchester, Withington;Manchester, Gorton"
+E38000033,NHS Chiltern,E14000631;E14000550;E14001056;E14000538,Chesham and Amersham;Beaconsfield;Wycombe;Aylesbury
+E38000058,NHS Erewash,E14000695,Erewash
+E38000059,NHS Fareham and Gosport,E14000699;E14000713,Fareham;Gosport
+E38000052,NHS East Riding of Yorkshire,E14000683;E14000556;E14000773;E14000724;E14000596,East Yorkshire;Beverley and Holderness;Kingston upon Hull West and Hessle;Haltemprice and Howden;Brigg and Goole
+E38000053,NHS East Staffordshire,E14000610;E14000791,Burton;Lichfield
+E38000050,NHS East Lancashire,E14000609;E14000902;E14000758;E14000894;E14000875,Burnley;Rossendale and Darwen;Hyndburn;Ribble Valley;Pendle
+E38000051,NHS East Leicestershire and Rutland,E14000728;E14000625;E14000940;E14000909,Harborough;Charnwood;South Leicestershire;Rutland and Melton
+E38000056,NHS Eastern Cheshire,E14000987;E14000646;E14000802,Tatton;Congleton;Macclesfield
+E38000057,NHS Enfield,E14000692;E14000691;E14000687,"Enfield, Southgate;Enfield North;Edmonton"
+E38000054,NHS East Surrey,E14000681;E14000893,East Surrey;Reigate
+E38000055,"NHS Eastbourne, Hailsham and Seaford",E14001023;E14000557;E14000684;E14000786,Wealden;Bexhill and Battle;Eastbourne;Lewes
+E38000128,NHS North West Surrey,E14000959;E14000907;E14001047;E14000697;E14000983,Spelthorne;Runnymede and Weybridge;Woking;Esher and Walton;Surrey Heath
+E38000129,"NHS North, East, West Devon",E14000623;E14000880;E14000838;E14001000;E14001001;E14000698;E14000835;E14000950;E14000996;E14000678;E14000879,"Central Devon;Plymouth, Sutton and Devonport;North Devon;Torridge and West Devon;Totnes;Exeter;Newton Abbot;South West Devon;Tiverton and Honiton;East Devon;Plymouth, Moor View"
+E38000048,NHS Ealing,E14000674;E14000675;E14000676,"Ealing Central and Acton;Ealing North;Ealing, Southall"
+E38000207,"NHS Windsor, Ascot and Maidenhead",E14000907;E14000803;E14001042,Runnymede and Weybridge;Maidenhead;Windsor
+E38000206,NHS Wiltshire,E14000954;E14000635;E14000860;E14000665;E14000912,South West Wiltshire;Chippenham;North Wiltshire;Devizes;Salisbury
+E38000205,NHS Wigan Borough,E14001039;E14000805;E14000785;E14000580,Wigan;Makerfield;Leigh;Bolton West
+E38000204,NHS West Suffolk,E14000613;E14000946;E14001034,Bury St Edmunds;South Suffolk;West Suffolk
+E38000203,NHS West Norfolk,E14000952;E14000859;E14000816,South West Norfolk;North West Norfolk;Mid Norfolk
+E38000202,"NHS West London (Kensington and Chelsea, Queen’s Park and Paddington)",E14000639;E14000629;E14000768;E14001036,Cities of London and Westminster;Chelsea and Fulham;Kensington;Westminster North
+E38000201,NHS West Leicestershire,E14000797;E14000583;E14000625;E14000858;E14000940,Loughborough;Bosworth;Charnwood;North West Leicestershire;South Leicestershire
+E38000200,NHS West Lancashire,E14000943;E14001033,South Ribble;West Lancashire
+E38000209,NHS Wokingham,E14001048;E14000586;E14000889;E14000803,Wokingham;Bracknell;Reading East;Maidenhead
+E38000208,NHS Wirral,E14001044;E14001043;E14000559;E14001010,Wirral West;Wirral South;Birkenhead;Wallasey
+E38000070,NHS Hammersmith and Fulham,E14000726;E14000629,Hammersmith;Chelsea and Fulham
+E38000069,"NHS Hambleton, Richmondshire and Whitby",E14000895;E14000993;E14000913,Richmond (Yorks);Thirsk and Malton;Scarborough and Whitby
+E38000068,NHS Halton,E14001024;E14000725,Weaver Vale;Halton
+E38000067,NHS Guildford and Waverley,E14001047;E14000953;E14000633;E14000824;E14000719,Woking;South West Surrey;Chichester;Mole Valley;Guildford
+E38000066,NHS Greenwich,E14000690;E14000696;E14000718,Eltham;Erith and Thamesmead;Greenwich and Woolwich
+E38000065,NHS Greater Preston,E14000894;E14000885;E14001057;E14000706;E14000943,Ribble Valley;Preston;Wyre and Preston North;Fylde;South Ribble
+E38000064,NHS Greater Huddersfield,E14000645;E14000756;E14000666,Colne Valley;Huddersfield;Dewsbury
+E38000063,NHS Great Yarmouth & Waveney,E14001022;E14000717;E14000981,Waveney;Great Yarmouth;Suffolk Coastal
+E38000062,NHS Gloucestershire,E14000712;E14000705;E14000630;E14000991;E14000990;E14000980,Gloucester;Forest of Dean;Cheltenham;The Cotswolds;Tewkesbury;Stroud
+E38000061,NHS Gateshead,E14000709;E14000765;E14000574,Gateshead;Jarrow;Blaydon
+E38000060,NHS Fylde & Wyre,E14000572;E14000776;E14001057;E14000706,Blackpool North and Cleveleys;Lancaster and Fleetwood;Wyre and Preston North;Fylde
+E38000193,NHS Wandsworth,E14000887;E14000998;E14000549,Putney;Tooting;Battersea
+E38000192,NHS Waltham Forest,E14001013;E14000634;E14000790,Walthamstow;Chingford and Woodford Green;Leyton and Wanstead
+E38000191,NHS Walsall,E14001011;E14001012;E14000531,Walsall North;Walsall South;Aldridge-Brownhills
+E38000190,NHS Wakefield,E14001009;E14000740;E14000836;E14000826,"Wakefield;Hemsworth;Normanton, Pontefract and Castleford;Morley and Outwood"
+E38000197,NHS West Essex,E14000693;E14000729;E14000910;E14000594,Epping Forest;Harlow;Saffron Walden;Brentwood and Ongar
+E38000196,NHS West Cheshire,E14000688;E14000640;E14001024;E14000686,Ellesmere Port and Neston;City of Chester;Weaver Vale;Eddisbury
+E38000195,NHS Warwickshire North,E14000854;E14000905;E14000868,North Warwickshire;Rugby;Nuneaton
+E38000194,NHS Warrington,E14001017;E14001018,Warrington North;Warrington South
+E38000210,NHS Wolverhampton,E14001051;E14001050;E14001049,Wolverhampton South West;Wolverhampton South East;Wolverhampton North East
+E38000211,NHS Wyre Forest,E14001058,Wyre Forest
+E38000199,NHS West Kent,E14000626;E14001004;E14000700;E14000997;E14000804;E14000918,Chatham and Aylesford;Tunbridge Wells;Faversham and Mid Kent;Tonbridge and Malling;Maidstone and The Weald;Sevenoaks
+E38000198,NHS West Hampshire,E14000811;E14000857;E14001041;E14000828;E14000901;E14000680;E14000685;E14000827,Meon Valley;North West Hampshire;Winchester;New Forest West;Romsey and Southampton North;East Hampshire;Eastleigh;New Forest East
+E38000078,NHS Herefordshire,E14000847;E14000743,North Herefordshire;Hereford and South Herefordshire
+E38000119,NHS North East Lincolnshire,E14000716;E14000643,Great Grimsby;Cleethorpes
+E38000118,NHS North East Hampshire and Farnham,E14000953;E14000844;E14000530,South West Surrey;North East Hampshire;Aldershot
+E38000170,NHS Southport and Formby,E14000958;E14000916,Southport;Sefton Central
+E38000113,NHS Newham,E14001032;E14000679,West Ham;East Ham
+E38000112,NHS Newcastle West,E14000833;E14000831,Newcastle upon Tyne North;Newcastle upon Tyne Central
+E38000111,NHS Newcastle North and East,E14000832;E14000833;E14000831,Newcastle upon Tyne East;Newcastle upon Tyne North;Newcastle upon Tyne Central
+E38000110,NHS Newbury and District,E14000830,Newbury
+E38000117,NHS North East Essex,E14000644;E14001045;E14000734;E14000642,Colchester;Witham;Harwich and North Essex;Clacton
+E38000116,NHS North Durham,E14000856;E14000840;E14000641,North West Durham;North Durham;City of Durham
+E38000115,NHS North Derbyshire,E14000843;E14000748;E14000632;E14000577;E14000664,North East Derbyshire;High Peak;Chesterfield;Bolsover;Derbyshire Dales
+E38000114,NHS North & West Reading,E14000890;E14000830;E14001048;E14000889,Reading West;Newbury;Wokingham;Reading East
+E38000179,NHS Sutton,E14000984;E14000621,Sutton and Cheam;Carshalton and Wallington
+E38000071,NHS Hardwick,E14000843;E14000577,North East Derbyshire;Bolsover
+E38000072,NHS Haringey,E14000752;E14001002,Hornsey and Wood Green;Tottenham
+E38000073,NHS Harrogate and Rural District,E14000730;E14000917;E14000928,Harrogate and Knaresborough;Selby and Ainsty;Skipton and Ripon
+E38000074,NHS Harrow,E14000731;E14000906;E14000732,"Harrow East;Ruislip, Northwood and Pinner;Harrow West"
+E38000075,NHS Hartlepool and Stockton-on-Tees,E14000733;E14000971;E14000970,Hartlepool;Stockton South;Stockton North
+E38000076,NHS Hastings & Rother,E14000557;E14000735,Bexhill and Battle;Hastings and Rye
+E38000077,NHS Havering,E14000657;E14000751;E14000900,Dagenham and Rainham;Hornchurch and Upminster;Romford
+E38000171,NHS Southwark,E14000673;E14000553;E14000615,Dulwich and West Norwood;Bermondsey and Old Southwark;Camberwell and Peckham
+E38000079,NHS Herts Valleys,E14000739;E14000960;E14000745;E14000951;E14001021;E14000749,Hemel Hempstead;St Albans;Hertsmere;South West Hertfordshire;Watford;Hitchin and Harpenden
+E38000173,NHS Stafford and Surrounds,E14000975;E14000965;E14000945,Stone;Stafford;South Staffordshire
+E38000172,NHS St Helens,E14000962;E14000963,St Helens North;St Helens South and Whiston
+E38000175,NHS Stoke on Trent,E14000974;E14000973;E14000972;E14000966,Stoke-on-Trent South;Stoke-on-Trent North;Stoke-on-Trent Central;Staffordshire Moorlands
+E38000174,NHS Stockport,E14000627;E14000738;E14000661;E14000969,Cheadle;Hazel Grove;Denton and Reddish;Stockport
+E38000177,NHS Surrey Downs,E14000893;E14000697;E14000694;E14000824,Reigate;Esher and Walton;Epsom and Ewell;Mole Valley
+E38000176,NHS Sunderland,E14001020;E14000982;E14000754,Washington and Sunderland West;Sunderland Central;Houghton and Sunderland South
+E38000184,NHS Thanet,E14000948;E14000852,South Thanet;North Thanet
+E38000185,NHS Thurrock,E14000995;E14000933,Thurrock;South Basildon and East Thurrock
+E38000186,NHS Tower Hamlets,E14000555;E14000882,Bethnal Green and Bow;Poplar and Limehouse
+E38000187,NHS Trafford,E14001059;E14000532;E14000979,Wythenshawe and Sale East;Altrincham and Sale West;Stretford and Urmston
+E38000180,NHS Swale,E14000927,Sittingbourne and Sheppey
+E38000181,NHS Swindon,E14001015;E14000851;E14000947,Wantage;North Swindon;South Swindon
+E38000182,NHS Tameside and Glossop,E14000537;E14000661;E14000748;E14000967,Ashton-under-Lyne;Denton and Reddish;High Peak;Stalybridge and Hyde
+E38000183,NHS Telford & Wrekin,E14000989;E14000992,Telford;The Wrekin
+E38000188,NHS Vale of York,E14000917;E14001062;E14000683;E14000993;E14001061,Selby and Ainsty;York Outer;East Yorkshire;Thirsk and Malton;York Central
+E38000189,NHS Vale Royal,E14000987;E14001024;E14000686,Tatton;Weaver Vale;Eddisbury
+E38000108,NHS Nene,E14000862;E14000660;E14000861;E14000648;E14000769;E14000942;E14001025,Northampton South;Daventry;Northampton North;Corby;Kettering;South Northamptonshire;Wellingborough
+E38000109,NHS Newark & Sherwood,E14000924;E14000829,Sherwood;Newark
+E38000104,NHS Medway,E14000898;E14000626;E14000711,Rochester and Strood;Chatham and Aylesford;Gillingham and Rainham
+E38000105,NHS Merton,E14000823;E14001040,Mitcham and Morden;Wimbledon
+E38000106,NHS Mid Essex,E14000590;E14000806;E14000628;E14000910;E14001045,Braintree;Maldon;Chelmsford;Saffron Walden;Witham
+E38000107,NHS Milton Keynes,E14000821;E14000608;E14000822,Milton Keynes North;Buckingham;Milton Keynes South
+E38000100,NHS Lincolnshire West,E14000792;E14000929;E14000707,Lincoln;Sleaford and North Hykeham;Gainsborough
+E38000101,NHS Liverpool,E14000708;E14000796;E14000795;E14000794;E14000793,"Garston and Halewood;Liverpool, West Derby;Liverpool, Wavertree;Liverpool, Walton;Liverpool, Riverside"
+E38000102,NHS Luton,E14000801;E14000800,Luton South;Luton North
+E38000103,NHS Mansfield & Ashfield,E14000810;E14000535,Mansfield;Ashfield
+E38000005,NHS Barnet,E14000703;E14000741;E14000636,Finchley and Golders Green;Hendon;Chipping Barnet
+E38000004,NHS Barking & Dagenham,E14000657;E14000540,Dagenham and Rainham;Barking
+E38000007,NHS Basildon and Brentwood,E14000933;E14000544;E14000594;E14000888,South Basildon and East Thurrock;Basildon and Billericay;Brentwood and Ongar;Rayleigh and Wickford
+E38000169,NHS Southern Derbyshire,E14000533;E14000935;E14000663;E14000662;E14000814;E14000664,Amber Valley;South Derbyshire;Derby South;Derby North;Mid Derbyshire;Derbyshire Dales
+E38000001,"NHS Airedale, Wharfedale and Craven",E14000766;E14000925;E14000928,Keighley;Shipley;Skipton and Ripon
+E38000003,NHS Aylesbury Vale,E14000608;E14000742;E14000538,Buckingham;Henley;Aylesbury
+E38000002,NHS Ashford,E14000536;E14000704,Ashford;Folkestone and Hythe
+E38000162,NHS South Tees,E14000819;E14000820;E14000891,Middlesbrough;Middlesbrough South and East Cleveland;Redcar
+E38000163,NHS South Tyneside,E14000765;E14000944,Jarrow;South Shields
+E38000160,NHS South Reading,E14000890;E14000889,Reading West;Reading East
+E38000161,NHS South Sefton,E14000581;E14000916,Bootle;Sefton Central
+E38000166,NHS South Worcestershire,E14000818;E14001052;E14000892;E14001035,Mid Worcestershire;Worcester;Redditch;West Worcestershire
+E38000167,NHS Southampton,E14000901;E14000955;E14000956,"Romsey and Southampton North;Southampton, Itchen;Southampton, Test"
+E38000164,NHS South Warwickshire,E14000977;E14000767;E14001019,Stratford-on-Avon;Kenilworth and Southam;Warwick and Leamington
+E38000165,NHS South West Lincolnshire,E14000714;E14000929,Grantham and Stamford;Sleaford and North Hykeham
+E38000095,NHS Leeds South and East,E14000689;E14000777;E14000779;E14000778;E14000826,Elmet and Rothwell;Leeds Central;Leeds North East;Leeds East;Morley and Outwood
+E38000016,NHS Bolton,E14000579;E14000578;E14000580,Bolton South East;Bolton North East;Bolton West
+E38000017,NHS Bracknell and Ascot,E14000586;E14001042,Bracknell;Windsor
+E38000014,NHS Blackburn with Darwen,E14000570;E14000902,Blackburn;Rossendale and Darwen
+E38000015,NHS Blackpool,E14000573;E14000572,Blackpool South;Blackpool North and Cleveleys
+E38000012,NHS Birmingham CrossCity,E14000567;E14000568;E14000564;E14000565;E14000566;E14000985;E14000560;E14000561;E14000562;E14000563,"Birmingham, Selly Oak;Birmingham, Yardley;Birmingham, Ladywood;Birmingham, Northfield;Birmingham, Perry Barr;Sutton Coldfield;Birmingham, Edgbaston;Birmingham, Erdington;Birmingham, Hall Green;Birmingham, Hodge Hill"
+E38000013,NHS Birmingham South and Central,E14000564;E14000565;E14000567;E14000560;E14000562,"Birmingham, Ladywood;Birmingham, Northfield;Birmingham, Selly Oak;Birmingham, Edgbaston;Birmingham, Hall Green"
+E38000159,NHS South Norfolk,E14000864;E14000952;E14000941;E14000816,Norwich South;South West Norfolk;South Norfolk;Mid Norfolk
+E38000011,NHS Bexley,E14000696;E14000869;E14000558,Erith and Thamesmead;Old Bexley and Sidcup;Bexleyheath and Crayford
+E38000157,NHS South Lincolnshire,E14000939;E14000714,South Holland and The Deepings;Grantham and Stamford
+E38000156,NHS South Kent Coast,E14000704;E14000670,Folkestone and Hythe;Dover
+E38000168,NHS Southend,E14000899;E14000957,Rochford and Southend East;Southend West
+E38000154,NHS South Eastern Hampshire,E14000811;E14000680;E14000736,Meon Valley;East Hampshire;Havant
+E38000153,NHS South East Staffs and Seisdon and Peninsular,E14000986;E14000791;E14000945,Tamworth;Lichfield;South Staffordshire
+E38000152,NHS South Devon and Torbay,E14000999;E14000835;E14000623;E14001001,Torbay;Newton Abbot;Central Devon;Totnes
+E38000018,NHS Bradford City,E14000589;E14000587,Bradford West;Bradford East
+E38000019,NHS Bradford Districts,E14000925;E14000588;E14000589;E14000587,Shipley;Bradford South;Bradford West;Bradford East
+E38000126,NHS North Staffordshire,E14000975;E14000973;E14000834;E14000966,Stone;Stoke-on-Trent North;Newcastle-under-Lyme;Staffordshire Moorlands
+E38000089,NHS Kernow,E14000938;E14000616;E14000961;E14001003;E14000964;E14000837,South East Cornwall;Camborne and Redruth;St Austell and Newquay;Truro and Falmouth;St Ives;North Cornwall
+E38000088,NHS Islington,E14000764;E14000763,Islington South and Finsbury;Islington North
+E38000085,NHS Hull,E14000771;E14000773;E14000772,Kingston upon Hull East;Kingston upon Hull West and Hessle;Kingston upon Hull North
+E38000084,NHS Hounslow,E14000701;E14000593,Feltham and Heston;Brentford and Isleworth
+E38000087,NHS Isle of Wight,E14000762,Isle of Wight
+E38000086,NHS Ipswich and East Suffolk,E14000613;E14000624;E14000981;E14000946;E14001034;E14000761,Bury St Edmunds;Central Suffolk and North Ipswich;Suffolk Coastal;South Suffolk;West Suffolk;Ipswich
+E38000081,NHS High Weald Lewes Havens,E14001023;E14000557;E14000597;E14000786,"Wealden;Bexhill and Battle;Brighton, Kemptown;Lewes"
+E38000080,"NHS Heywood, Middleton & Rochdale",E14000747;E14000897,Heywood and Middleton;Rochdale
+E38000083,NHS Horsham and Mid Sussex,E14000753;E14000534;E14000817,Horsham;Arundel and South Downs;Mid Sussex
+E38000082,NHS Hillingdon,E14000906;E14000737;E14001007,"Ruislip, Northwood and Pinner;Hayes and Harlington;Uxbridge and South Ruislip"
+E38000140,NHS Richmond,E14001005;E14000896,Twickenham;Richmond Park
+E38000141,NHS Rotherham,E14001028;E14000903;E14000904,Wentworth and Dearne;Rother Valley;Rotherham
+E38000142,NHS Rushcliffe,E14000829;E14000908,Newark;Rushcliffe
+E38000143,NHS Salford,E14000571;E14000911;E14001054,Blackley and Broughton;Salford and Eccles;Worsley and Eccles South
+E38000144,NHS Sandwell and West Birmingham,E14000722;E14001029;E14001016;E14000564;E14001030;E14000566;E14000560,"Halesowen and Rowley Regis;West Bromwich East;Warley;Birmingham, Ladywood;West Bromwich West;Birmingham, Perry Barr;Birmingham, Edgbaston"
+E38000145,NHS Scarborough and Ryedale,E14000913;E14000993,Scarborough and Whitby;Thirsk and Malton
+E38000146,NHS Sheffield,E14000920;E14000921;E14000922;E14000923;E14000876;E14000919,"Sheffield South East;Sheffield, Brightside and Hillsborough;Sheffield, Hallam;Sheffield, Heeley;Penistone and Stocksbridge;Sheffield Central"
+E38000147,NHS Shropshire,E14000926;E14000849;E14000799;E14000992,Shrewsbury and Atcham;North Shropshire;Ludlow;The Wrekin
+E38000148,NHS Slough,E14000930;E14001042,Slough;Windsor
+E38000149,NHS Solihull,E14000812;E14000931,Meriden;Solihull
+E38000178,NHS Surrey Heath,E14000983,Surrey Heath
+E38000010,NHS Bedfordshire,E14000841;E14000949;E14000801;E14000813;E14000552,North East Bedfordshire;South West Bedfordshire;Luton South;Mid Bedfordshire;Bedford
+E38000098,NHS Lewisham,E14000788;E14000789;E14000787,"Lewisham West and Penge;Lewisham, Deptford;Lewisham East"
+E38000099,NHS Lincolnshire East,E14000582;E14000939;E14000707;E14000798,Boston and Skegness;South Holland and The Deepings;Gainsborough;Louth and Horncastle
+E38000096,NHS Leeds West,E14000886;E14000780;E14000781;E14000779;E14000777;E14000826,Pudsey;Leeds North West;Leeds West;Leeds North East;Leeds Central;Morley and Outwood
+E38000097,NHS Leicester City,E14000782;E14000783;E14000784,Leicester East;Leicester South;Leicester West
+E38000094,NHS Leeds North,E14000780;E14000689;E14000777;E14000779;E14000778,Leeds North West;Elmet and Rothwell;Leeds Central;Leeds North East;Leeds East
+E38000158,NHS South Manchester,E14001059;E14000809,"Wythenshawe and Sale East;Manchester, Withington"
+E38000092,NHS Lambeth,E14001008;E14000673;E14000978,Vauxhall;Dulwich and West Norwood;Streatham
+E38000093,NHS Lancashire North,E14000825;E14000776;E14001057,Morecambe and Lunesdale;Lancaster and Fleetwood;Wyre and Preston North
+E38000090,NHS Kingston,E14000770;E14000896,Kingston and Surbiton;Richmond Park
+E38000091,NHS Knowsley,E14000708;E14000775;E14000963,Garston and Halewood;Knowsley;St Helens South and Whiston
+E38000155,NHS South Gloucestershire,E14000774;E14000702;E14000994,Kingswood;Filton and Bradley Stoke;Thornbury and Yate
+E38000135,NHS Oldham,E14000537;E14000870;E14000871,Ashton-under-Lyne;Oldham East and Saddleworth;Oldham West and Royton
+E38000134,NHS Nottingham West,E14000535;E14000607,Ashfield;Broxtowe
+E38000137,NHS Portsmouth,E14000884;E14000883,Portsmouth South;Portsmouth North
+E38000136,NHS Oxfordshire,E14000539;E14001046;E14000874;E14000873;E14000742;E14001015,Banbury;Witney;Oxford West and Abingdon;Oxford East;Henley;Wantage
+E38000131,NHS Norwich,E14000864;E14000603;E14000863,Norwich South;Broadland;Norwich North
+E38000130,NHS Northumberland,E14000554;E14000746;E14001014;E14000575,Berwick-upon-Tweed;Hexham;Wansbeck;Blyth Valley
+E38000133,NHS Nottingham North & East,E14000924;E14000829;E14000710,Sherwood;Newark;Gedling
+E38000132,NHS Nottingham City,E14000865;E14000867;E14000866,Nottingham East;Nottingham South;Nottingham North
+E38000139,NHS Redditch and Bromsgrove,E14000892;E14000605,Redditch;Bromsgrove
+E38000138,NHS Redbridge,E14000759;E14000634;E14000760;E14000790,Ilford North;Chingford and Woodford Green;Ilford South;Leyton and Wanstead
+E38000151,NHS South Cheshire,E14000646;E14000653;E14000686,Congleton;Crewe and Nantwich;Eddisbury
+E38000150,NHS Somerset,E14000932;E14001026;E14000595;E14001060;E14000988,Somerton and Frome;Wells;Bridgwater and West Somerset;Yeovil;Taunton Deane
+E38000029,NHS Canterbury and Coastal,E14000619;E14000927;E14000852;E14000948;E14000670;E14000700,Canterbury;Sittingbourne and Sheppey;North Thanet;South Thanet;Dover;Faversham and Mid Kent
+E38000028,NHS Cannock Chase,E14000618;E14000791;E14000945,Cannock Chase;Lichfield;South Staffordshire
+E38000009,NHS Bath and North East Somerset,E14000547;E14000846,Bath;North East Somerset
+E38000023,NHS Bromley,E14000788;E14000872;E14000551;E14000604,Lewisham West and Penge;Orpington;Beckenham;Bromley and Chislehurst
+E38000022,NHS Bristol,E14000601;E14000600;E14000599;E14000602,Bristol South;Bristol North West;Bristol East;Bristol West
+E38000021,NHS Brighton & Hove,E14000598;E14000597;E14000755,"Brighton, Pavilion;Brighton, Kemptown;Hove"
+E38000020,NHS Brent,E14000591;E14000592;E14000727,Brent Central;Brent North;Hampstead and Kilburn
+E38000027,NHS Camden,E14000750;E14000727,Holborn and St Pancras;Hampstead and Kilburn
+E38000026,NHS Cambridgeshire and Peterborough,E14000617;E14000855;E14000937;E14000845;E14000934;E14000757;E14000648;E14000842;E14000878,Cambridge;North West Cambridgeshire;South East Cambridgeshire;North East Hertfordshire;South Cambridgeshire;Huntingdon;Corby;North East Cambridgeshire;Peterborough
+E38000025,NHS Calderdale,E14000723;E14000614,Halifax;Calder Valley
+E38000024,NHS Bury,E14000612;E14000611,Bury South;Bury North
