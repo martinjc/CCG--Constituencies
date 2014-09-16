@@ -1,4 +1,4 @@
-# CGC => Constituencies
+# CCG => Constituencies
 
 Lookup conversion script to work out which Westminster Parliamentary Constituencies are contained within which NHS Clinical Commissioning Groups. Uses ONS lookup tables to carry out the lookup in a three step process:
 
