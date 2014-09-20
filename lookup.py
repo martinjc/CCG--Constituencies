@@ -35,6 +35,9 @@ from collections import defaultdict
 data = {}
 
 # extract information about clinical commissioning groups
+# data from https://geoportal.statistics.gov.uk/geoportal/catalog/search/browse/browse.page
+# https://geoportal.statistics.gov.uk/geoportal/catalog/search/resource/details.page?uuid=%7B15C3A07F-F5E1-4CE8-9CFD-24B3589C725B%7D
+# Contains National Statistics data © Crown copyright and database right 2014
 with open('OA11_CCG13_NHSAT_NHSCR_EN_LU.csv', 'r') as oa_to_cgc_file:
     reader = csv.DictReader(oa_to_cgc_file)
     for row in reader:
@@ -47,6 +50,9 @@ with open('OA11_CCG13_NHSAT_NHSCR_EN_LU.csv', 'r') as oa_to_cgc_file:
 oas = {}
 pcon_nm = {}
 
+# data from https://geoportal.statistics.gov.uk/geoportal/catalog/search/browse/browse.page
+# https://geoportal.statistics.gov.uk/geoportal/catalog/search/resource/details.page?uuid=%7B441E0CBF-1421-4BF5-BBC9-5B7C0EA0FE44%7D
+# Contains National Statistics data © Crown copyright and database right 2014
 with open('OA11_PCON11_EER11_EW_LU.csv', 'r') as oa_to_pcon_file:
     reader = csv.DictReader(oa_to_pcon_file)
     for row in reader:
